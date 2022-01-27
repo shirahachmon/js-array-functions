@@ -7,3 +7,5 @@ exports.array= [
     { name: 'Computer', price: 1000},
     { name: 'Keybored', price: 25}
 ]
+
+// hiS

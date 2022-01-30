@@ -8,4 +8,5 @@ exports.array= [
     { name: 'Keybored', price: 25}
 ]
 
-// hiS
+exports.positiveNumbersArray= [4,2,3,4,45,5,6,7,2,1,2,3,4,5,6]
+exports.positiveEvenNumbers= [4,2,4,4,6,8,8,2,6]

@@ -1,4 +1,4 @@
-let module = require('./arrayForExample')
+let module = require('./data')
 let array= module.array;
 
 console.log(array)

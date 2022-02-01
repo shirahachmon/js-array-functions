@@ -10,3 +10,7 @@ exports.array= [
 
 exports.positiveNumbersArray= [4,2,3,4,45,5,6,7,2,1,2,3,4,5,6]
 exports.positiveEvenNumbers= [4,2,4,4,6,8,8,2,6]
+
+exports.target= 9
+exports.numbersArray= [7,11, 3, 15, -6]
+

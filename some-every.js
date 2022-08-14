@@ -13,3 +13,4 @@ console.log(ifAllItemsGreaterThan1000); // Returns boolean
 
 
 
+

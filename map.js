@@ -1,5 +1,6 @@
 let module = require('./data')
 let array= module.array;
+let words = module.words;
 
 console.log(array)
 

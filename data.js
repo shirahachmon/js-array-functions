@@ -13,4 +13,5 @@ exports.positiveEvenNumbers= [4,2,4,4,6,8,8,2,6]
 
 exports.target= 9
 exports.numbersArray= [7,11, 3, 15, -6]
+exports.words = ['aa', 'bb', 'bb', 'cc', 'bb', 'aa'];
 
